@@ -1,13 +1,13 @@
-product_name,product_deeplink,product_category,product_image,upload_date
-Parsaloimulohipiirakka,https://hatala.fi/kalareseptit/parsaloimulohipiirakka/,juhlat,https://hatala.fi/wp-content/uploads/2019/03/parsa-loimulohipiirakka.jpg,2022-01-19T07:02:58+00:00
-Lohivoileipäkakku kahdella täytteellä,https://hatala.fi/kalareseptit/lohivoileipakakku-kahdella-taytteella/,juhlat,https://hatala.fi/wp-content/uploads/2019/03/lohivoileipakakku-kahdella-taytteella.jpg,2022-05-10T09:59:06+00:00
-Graavisiikaleipäset,https://hatala.fi/kalareseptit/graavisiikaleipaset/,juhlat,https://hatala.fi/wp-content/uploads/2023/05/hatala_leipaset_graavisiika_kesapoyta_tiukka_1920x1080.jpg,2023-05-17T06:07:50+00:00
-Appelsiinimarinoitu graavilohi,https://hatala.fi/kalareseptit/appelsiinimarinoitu-graavilohi/,juhlat,https://hatala.fi/wp-content/uploads/2023/12/Appelsiinimarinoitu-graavilohi-joulu-1920x1080-1.jpg,2023-12-12T14:07:27+00:00
-Kuha-parsakääröt,https://hatala.fi/kalareseptit/kuha-parsakaarot/,juhlat,https://hatala.fi/wp-content/uploads/2024/03/Hatala_Kuha-parsakaarot_1920x1080.jpg,2024-03-25T08:11:56+00:00
-Juhlapöydän pienet lohipiirakat,https://hatala.fi/kalareseptit/juhlapoydan-pienet-lohipiirakat/,juhlat,https://hatala.fi/wp-content/uploads/2022/05/Pienet-lohipiirakat-1920x1080-1.jpg,2024-04-22T13:05:26+00:00
-Juhlapöydän graavilohileivät,https://hatala.fi/kalareseptit/juhlapoydan-graavilohileivat/,juhlat,https://hatala.fi/wp-content/uploads/2022/05/Lohileivat-1920x1080-1.jpg,2024-05-30T05:19:45+00:00
-Sushikakku,https://hatala.fi/kalareseptit/sushikakku/,juhlat,https://hatala.fi/wp-content/uploads/2024/05/Hatala_Sushikakku_1920x1080.jpg,2024-08-19T05:48:46+00:00
-Pyöreä voileipäkakku,https://hatala.fi/kalareseptit/pyorea-voileipakakku/,juhlat,https://hatala.fi/wp-content/uploads/2023/05/Hatala_pyorea_voileipakakku_1920x1080.jpg,2024-08-19T05:50:16+00:00
-Loimulohisalaatti sitruskastikkeella,https://hatala.fi/kalareseptit/loimulohisalaatti-sitruskastikkeella/,juhlat,https://hatala.fi/wp-content/uploads/2025/04/Hatala_Terveellisyyssivu-loimulohisalaatti_1920x1080.jpg,2024-08-19T05:50:16+00:01
-Lohicarpaccio,https://hatala.fi/kalareseptit/lohicarpaccio/,juhlat,https://hatala.fi/wp-content/uploads/2025/04/Hatala_Terveellisyyssivu-lohicarpaccio_2_1920x1080.jpg,2024-08-19T05:50:16+00:02
-Sydämelliset lohipasteijat,https://hatala.fi/kalareseptit/lohipasteijat/,juhlat,https://hatala.fi/wp-content/uploads/2025/02/Lohipasteijat_hero.jpg,2024-08-19T05:50:16+00:03
+product_id,product_name,product_deeplink,product_category,product_image,upload_date
+1,Parsaloimulohipiirakka,https://hatala.fi/kalareseptit/parsaloimulohipiirakka/,juhlat,https://hatala.fi/wp-content/uploads/2019/03/parsa-loimulohipiirakka.jpg,2022-01-19T07:02:58+00:00
+2,Lohivoileipäkakku kahdella täytteellä,https://hatala.fi/kalareseptit/lohivoileipakakku-kahdella-taytteella/,juhlat,https://hatala.fi/wp-content/uploads/2019/03/lohivoileipakakku-kahdella-taytteella.jpg,2022-05-10T09:59:06+00:00
+3,Graavisiikaleipäset,https://hatala.fi/kalareseptit/graavisiikaleipaset/,juhlat,https://hatala.fi/wp-content/uploads/2023/05/hatala_leipaset_graavisiika_kesapoyta_tiukka_1920x1080.jpg,2023-05-17T06:07:50+00:00
+4,Appelsiinimarinoitu graavilohi,https://hatala.fi/kalareseptit/appelsiinimarinoitu-graavilohi/,juhlat,https://hatala.fi/wp-content/uploads/2023/12/Appelsiinimarinoitu-graavilohi-joulu-1920x1080-1.jpg,2023-12-12T14:07:27+00:00
+5,Kuha-parsakääröt,https://hatala.fi/kalareseptit/kuha-parsakaarot/,juhlat,https://hatala.fi/wp-content/uploads/2024/03/Hatala_Kuha-parsakaarot_1920x1080.jpg,2024-03-25T08:11:56+00:00
+6,Juhlapöydän pienet lohipiirakat,https://hatala.fi/kalareseptit/juhlapoydan-pienet-lohipiirakat/,juhlat,https://hatala.fi/wp-content/uploads/2022/05/Pienet-lohipiirakat-1920x1080-1.jpg,2024-04-22T13:05:26+00:00
+7,Juhlapöydän graavilohileivät,https://hatala.fi/kalareseptit/juhlapoydan-graavilohileivat/,juhlat,https://hatala.fi/wp-content/uploads/2022/05/Lohileivat-1920x1080-1.jpg,2024-05-30T05:19:45+00:00
+8,Sushikakku,https://hatala.fi/kalareseptit/sushikakku/,juhlat,https://hatala.fi/wp-content/uploads/2024/05/Hatala_Sushikakku_1920x1080.jpg,2024-08-19T05:48:46+00:00
+9,Pyöreä voileipäkakku,https://hatala.fi/kalareseptit/pyorea-voileipakakku/,juhlat,https://hatala.fi/wp-content/uploads/2023/05/Hatala_pyorea_voileipakakku_1920x1080.jpg,2024-08-19T05:50:16+00:00
+10,Loimulohisalaatti sitruskastikkeella,https://hatala.fi/kalareseptit/loimulohisalaatti-sitruskastikkeella/,juhlat,https://hatala.fi/wp-content/uploads/2025/04/Hatala_Terveellisyyssivu-loimulohisalaatti_1920x1080.jpg,2024-08-19T05:50:16+00:01
+11,Lohicarpaccio,https://hatala.fi/kalareseptit/lohicarpaccio/,juhlat,https://hatala.fi/wp-content/uploads/2025/04/Hatala_Terveellisyyssivu-lohicarpaccio_2_1920x1080.jpg,2024-08-19T05:50:16+00:02
+12,Sydämelliset lohipasteijat,https://hatala.fi/kalareseptit/lohipasteijat/,juhlat,https://hatala.fi/wp-content/uploads/2025/02/Lohipasteijat_hero.jpg,2024-08-19T05:50:16+00:03
